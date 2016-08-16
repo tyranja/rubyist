@@ -9,3 +9,11 @@ class Person
     @name
   end
 end
+
+# start irb
+# load "person.rb"
+# or
+# require "./person"
+# anja = Person.new
+# anja.set_name("Anja")
+# anja.get_name
